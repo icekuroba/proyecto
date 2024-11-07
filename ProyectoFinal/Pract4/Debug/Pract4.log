@@ -1,0 +1,84 @@
+﻿  proyectoFinal.cpp
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(220,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(251,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(251,21): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(251,21): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(251,21): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(251,21): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(252,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(252,21): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(252,21): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(252,21): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(252,21): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(253,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(253,21): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(253,21): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(253,21): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(253,21): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(268,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(268,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(268,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(268,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(268,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(269,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(269,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(269,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(269,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(269,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(270,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(270,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(270,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(270,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(270,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(283,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(283,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(283,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(283,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(283,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(284,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(284,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(284,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(284,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(284,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(285,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(285,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(285,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(285,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(285,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(298,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(298,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(298,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(298,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(298,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(299,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(299,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(299,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(299,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(299,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(300,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(300,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(300,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(300,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(300,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(313,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(313,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(313,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(313,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(313,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(314,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(314,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(314,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(314,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(314,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(315,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(315,22): warning C4244:         with
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(315,22): warning C4244:         [
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(315,22): warning C4244:             T=float
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(315,22): warning C4244:         ]
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(475,13): error C2374: 'model': nueva definición; inicialización múltiple
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(700,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(701,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(705,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(706,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(708,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dl\OneDrive\Escritorio\compu grafica\LABO\ProyectoFinal\Pract4\proyectoFinal.cpp(709,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
